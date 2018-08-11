@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (4.7.3)
+  - AlamofireImage (3.3.1):
+    - Alamofire (~> 4.5)
+  - ASValueTrackingSlider (0.12.1)
+  - SnapKit (3.2.0)
+  - VideoPlaybackKit (0.2.3):
+    - Alamofire (~> 4.4)
+    - AlamofireImage (~> 3.1)
+    - ASValueTrackingSlider
+    - SnapKit (~> 3.2.0)
+
+DEPENDENCIES:
+  - VideoPlaybackKit
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - AlamofireImage
+    - ASValueTrackingSlider
+    - SnapKit
+    - VideoPlaybackKit
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  AlamofireImage: 3b35b586853abaf94ca1250f4e94cff3c21a4c0d
+  ASValueTrackingSlider: 5261de3fcf00adb339efc93885e8f0bc99e703cd
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+  VideoPlaybackKit: b963b83ebfe80f002191fc3721eb596459174a1e
+
+PODFILE CHECKSUM: ce61982658bdba8a421444530d3961b715a0c211
+
+COCOAPODS: 1.5.0

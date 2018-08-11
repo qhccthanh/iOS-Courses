@@ -1,0 +1,28 @@
+PODS:
+  - ESPullToRefresh (2.7)
+  - SnapKit (4.0.0)
+  - SVProgressHUD (2.2.5)
+  - SwiftyContacts (2.0.7)
+
+DEPENDENCIES:
+  - ESPullToRefresh
+  - SnapKit
+  - SVProgressHUD
+  - SwiftyContacts (~> 2.0.7)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - ESPullToRefresh
+    - SnapKit
+    - SVProgressHUD
+    - SwiftyContacts
+
+SPEC CHECKSUMS:
+  ESPullToRefresh: 119e2710b82b75536aab2bbe4883ba119fca35c8
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyContacts: 6f557186b1ad8a16e3cba28b3f4b735e2723f95b
+
+PODFILE CHECKSUM: 9b24ce7df40567d5b4e607db36988a8d0012a80f
+
+COCOAPODS: 1.5.0
