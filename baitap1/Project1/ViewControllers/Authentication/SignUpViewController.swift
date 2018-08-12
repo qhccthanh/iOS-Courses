@@ -143,7 +143,8 @@ class SignUpViewController: UIViewController {
 
             FIRManager.shared.userRef.child(result?.user.uid ?? "").setValue([
                 "email": result?.user.email ?? "",
-                "id": result?.user.uid ?? ""
+                "id": result?.user.uid ?? "",
+                "name": name
                 ])
 
             SVProgressHUD.vu_showSuccess("SignUp thanh cong", completion: {
