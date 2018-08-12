@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>533587611080-lc52892dnp4i75imi65a04oa3jdb76gd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.533587611080-lc52892dnp4i75imi65a04oa3jdb76gd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCjMuzoJYdA-mbPkJQSC_EftjqAo9FE7jY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>533587611080</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.laptrinhios.DemoFireBase</string>
+	<key>PROJECT_ID</key>
+	<string>hellonewappios-1529584088128</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hellonewappios-1529584088128.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:533587611080:ios:9d9f468456dad701</string>
+	<key>DATABASE_URL</key>
+	<string>https://hellonewappios-1529584088128.firebaseio.com</string>
+</dict>
+</plist>
