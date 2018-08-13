@@ -1,0 +1,189 @@
+
+{
+"reply": {
+"is_highlight_orders": true,
+"orders": [{
+"merchant": {
+"position": {
+"lat": 10.7771480000000,
+"lng": 106.6955940000000
+},
+"address": "300 Cống Quỳnh, P.Phạm Ngũ Lão, Q.1, HCM, Quận 1",
+"distance": {
+"text": "1.7 km",
+"value": 1.7,
+"unit": "km"
+},
+"id": 470,
+"name": "Fox's House"
+},
+"bonus_shipper": {
+"text": "0đ",
+"value": 0.00,
+"unit": "đ"
+},
+"extra_ship_value": {
+"text": "0đ",
+"value": 0,
+"unit": "đ"
+},
+"user_payment_type_id": 1,
+"id": 124961,
+"delivery_time": {
+"time": "2018-07-04 09:15:00",
+"remaining_time": {
+"text": "-592 phút",
+"value": -592,
+"unit": "phút"
+},
+"label": "Giao"
+},
+"ship_value": {
+"text": "40,000đ",
+"value": 40000.0,
+"unit": "đ"
+},
+"pay_value": {
+"text": "340,800đ",
+"value": 340800.00,
+"unit": "đ"
+},
+"is_asap": false,
+"receiver": {
+"position": {
+"lat": 10.76657770000000,
+"lng": 106.69772910000006
+},
+"address": "Chợ Dân Sinh, Nguyễn Thái Bình, Quận 1, Hồ Chí Minh",
+"id": 8590,
+"name": "Duy"
+},
+"pay_to_merchant": {
+"state": "unpaid",
+"type": "cod"
+}
+}, {
+"merchant": {
+"position": {
+"lat": 10.7847960000000,
+"lng": 106.6833720000000
+},
+"address": "Lầu 5, 163 Trần Quốc Thảo, Quận 3",
+"distance": {
+"text": "2.6 km",
+"value": 2.6,
+"unit": "km"
+},
+"id": 418,
+"name": "Quán cafe HoaPH deli x"
+},
+"bonus_shipper": {
+"text": "0đ",
+"value": 0.00,
+"unit": "đ"
+},
+"extra_ship_value": {
+"text": "0đ",
+"value": 0,
+"unit": "đ"
+},
+"user_payment_type_id": 4,
+"id": 124832,
+"delivery_time": {
+"time": "2018-07-04 09:30:00",
+"remaining_time": {
+"text": "-577 phút",
+"value": -577,
+"unit": "phút"
+},
+"label": "Giao"
+},
+"ship_value": {
+"text": "40,000đ",
+"value": 40000.0,
+"unit": "đ"
+},
+"pay_value": {
+"text": "0đ",
+"value": 0,
+"unit": "đ"
+},
+"is_asap": false,
+"receiver": {
+"position": {
+"lat": 10.77324570000000,
+"lng": 106.70085320000000
+},
+"address": "[Takashimaya Vietnam] - 92-94 Nam Kỳ Khởi Nghĩa, Bến Nghé, Quận 1, Hồ Chí Minh 700000, Việt Nam",
+"id": 6896,
+"name": "Hao aaaaaaaaabb Hao aaaaaaaaaab"
+},
+"pay_to_merchant": {
+"state": "paid",
+"type": "airpay"
+}
+}, {
+"merchant": {
+"position": {
+"lat": 10.7672100000000,
+"lng": 106.6877380000000
+},
+"address": "224 cống quỳnh,q1, Quận 1",
+"distance": {
+"text": "1.7 km",
+"value": 1.7,
+"unit": "km"
+},
+"id": 433,
+"name": "KOI - Ngô Đức Kế"
+},
+"bonus_shipper": {
+"text": "0đ",
+"value": 0.00,
+"unit": "đ"
+},
+"extra_ship_value": {
+"text": "0đ",
+"value": 0,
+"unit": "đ"
+},
+"user_payment_type_id": 1,
+"id": 124972,
+"delivery_time": {
+"time": "2018-07-04 19:55:18",
+"remaining_time": {
+"text": "48 phút",
+"value": 48,
+"unit": "phút"
+},
+"label": "Giao gấp"
+},
+"ship_value": {
+"text": "40,000đ",
+"value": 40000.0,
+"unit": "đ"
+},
+"pay_value": {
+"text": "0đ",
+"value": 0,
+"unit": "đ"
+},
+"is_asap": true,
+"receiver": {
+"position": {
+"lat": 10.77295624329700,
+"lng": 106.70049589699769
+},
+"address": "77 Nam Kỳ Khởi Nghĩa, Bến Thành, Quận 1, Hồ Chí Minh",
+"id": 6896,
+"name": "Hao Thuy"
+},
+"pay_to_merchant": {
+"state": "paid",
+"type": "airpay"
+}
+}],
+"result_count": 3
+},
+"result": "success"
+}

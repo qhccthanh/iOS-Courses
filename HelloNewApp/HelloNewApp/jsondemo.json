@@ -1,0 +1,52 @@
+[
+    {
+        "name": "ABC",
+        "age": 10,
+        "gender": true,
+        "favorite": ["an choi", "ngu nghi"],
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/300px-IOS_logo.svg.png",
+        "info": {
+            "bio": "i am superman"
+        }
+    },
+{
+"name": "ABC",
+"age": 10,
+"gender": true,
+"favorite": ["an choi", "ngu nghi"],
+"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/300px-IOS_logo.svg.png",
+"info": {
+"bio": "i am superman"
+}
+},
+{
+"name": "ABC",
+"age": 10,
+"gender": true,
+"favorite": ["an choi", "ngu nghi"],
+"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/300px-IOS_logo.svg.png",
+"info": {
+"bio": "i am superman"
+}
+},
+{
+"name": "ABC",
+"age": 10,
+"gender": true,
+"favorite": ["an choi", "ngu nghi"],
+"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/300px-IOS_logo.svg.png",
+"info": {
+"bio": "i am superman"
+}
+},
+{
+"name": "ABC",
+"age": 10,
+"gender": true,
+"favorite": ["an choi", "ngu nghi"],
+"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/300px-IOS_logo.svg.png",
+"info": {
+"bio": "i am superman"
+}
+}
+]
